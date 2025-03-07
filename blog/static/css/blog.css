@@ -9,13 +9,12 @@ body {
     text-align: center;
 }
 
-
-
 .page-header {
-    background-color: #C25100;
+    background-color: #436439;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
+    border-radius: 12px;
 }
 
 .page-header h1,
@@ -65,8 +64,8 @@ h4 {
     color: #000000;
 }
 
-.post>.date,
-.post>.actions {
+.post > .date,
+.post > .actions {
     float: right;
 }
 
